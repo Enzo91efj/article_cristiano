@@ -1,0 +1,60 @@
+h1 {
+	color: #d90429;
+	display: flex;
+	justify-content: center;
+	font-family: roboto;
+
+}
+
+p {
+	margin: 60px;
+	padding: 20px;
+	border: 2px black;
+	border-radius: 25px;
+	box-shadow: 4px 4px 5px grey;
+
+}
+
+.img-ronaldo {
+	border-radius: 25px;
+	box-shadow: 4px 4px 5px;
+
+}
+}
+#video-cr7 {
+	border-radius: 20px;
+}
+
+.flexbox {
+	display: flex;
+	justify-content: space-around;
+	border-radius: 20px;
+}
+
+h2 {
+	color: #03045e;
+	display: flex;
+	justify-content: center;
+		font-family: roboto;
+
+}
+body {
+	background-color: #f1faee;
+}
+
+a {
+	display: flex;
+	justify-content: center;
+	box-shadow: 1px 1px 2px grey;
+	margin: 60px;
+	padding: 20px;
+		border-radius: 25px;
+		color: white;
+		background-color: #da2c38;
+
+
+}
+
+a:hover {
+	background-color: darkred;
+}
